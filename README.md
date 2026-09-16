@@ -1,2 +1,2 @@
 # email-usergen
-this is a simple tool that allows you to generate a random credentials
+a simple tool that makes you generate credentials
